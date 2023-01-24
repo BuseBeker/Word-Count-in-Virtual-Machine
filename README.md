@@ -7,11 +7,11 @@
 
 • Normalize the text:
 
-  • Make all text lowercase
+   • Make all text lowercase
   
-  • Remove punctuations and digits
+   • Remove punctuations and digits
   
-  • Remove empty lines
+   • Remove empty lines
 
 • Print number of lines in the file.
 
