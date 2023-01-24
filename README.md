@@ -1,5 +1,6 @@
 # Word Count in Virtual Machine
  Using Apache Spark- Jupyter Notebook with Python &  Word Count Example
+ 
 • Create SparkConf object that contains information about your application and set App Name as studentNo_studentName.
 
 • After creating SparkContext, print your computer name (host name) and ip address by writing python code.
