@@ -6,8 +6,11 @@
 • After creating SparkContext, print your computer name (host name) and ip address by writing python code.
 
 • Normalize the text:
+
   • Make all text lowercase
+  
   • Remove punctuations and digits
+  
   • Remove empty lines
 
 • Print number of lines in the file.
